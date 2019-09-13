@@ -1,0 +1,3 @@
+python(sudo apt install python)
+Sqlite3(pip install sqlite3)
+
